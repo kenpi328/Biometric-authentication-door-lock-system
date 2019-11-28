@@ -1,0 +1,9 @@
+{
+	"name": "facial-recognition-server",
+	"version": "0.0.1",
+	"description": "Front-end of the facial recognition camera",
+	"dependencies": {
+		"socket.io": "~0.9.6",
+		"mime": "~1.2.7"
+	}
+}
